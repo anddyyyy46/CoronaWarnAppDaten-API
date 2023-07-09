@@ -1,0 +1,6 @@
+com\example\CvdData\CvdDataModel.class
+com\example\CvdData\Average.class
+com\example\CvdData\CvdDataApplication.class
+com\example\CvdData\CvdDataService.class
+com\example\CvdData\CvdDataRepository.class
+com\example\CvdData\CvdDataController.class
