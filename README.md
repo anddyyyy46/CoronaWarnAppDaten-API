@@ -37,7 +37,8 @@ getDataAvrg endpoint:<br>
 &emsp;**https://coronawarnappdaten.onrender.com/getDataAverages?date=2021**<br>
 With FrontEnd:<br> 
 &emsp;**https://corona-warn-app-front-end.vercel.app/**
-![image](https://github.com/anddyyyy46/CoronaWarnAppDaten-API/assets/132681533/32b77706-cf45-45ed-a945-77f03080c310)
+![image](https://github.com/anddyyyy46/CoronaWarnAppDaten-API/assets/132681533/767118e8-5fd5-42ee-a963-cced9eb1968a)
+
 
 
   
